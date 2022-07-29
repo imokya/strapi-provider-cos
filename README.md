@@ -1,4 +1,4 @@
-# strapi-provider-upload-cos
+# strapi-provider-cos
 在strapi中使用腾讯云cos对象存储
 
 ## Installation
