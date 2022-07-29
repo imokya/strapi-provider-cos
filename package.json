@@ -1,0 +1,45 @@
+{
+  "name": "strapi-provider-cos",
+  "version": "0.0.1",
+  "description": "Strapi cms file upload provider for tencent cos",
+  "keywords": [
+    "upload",
+    "cos",
+    "tencent",
+    "strapi",
+    "provider"
+  ],
+  "homepage": "https://github.com/imokya/strapi-provider-cos",
+  "bugs": {
+    "url": "https://github.com/imokya/strapi-provider-cos/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/imokya/strapi-provider-cos.git"
+  },
+  "license": "SEE LICENSE IN LICENSE",
+  "author": {
+    "name": "行歌",
+    "url": "https://github.com/imokya/"
+  },
+  "maintainers": [
+    {
+      "name": "行歌",
+      "url": "https://github.com/imokya/"
+    }
+  ],
+  "main": "./lib",
+  "directories": {
+    "lib": "./lib"
+  },
+  "scripts": {
+    "test": "echo \"no tests yet\""
+  },
+  "dependencies": {
+    "cos-nodejs-sdk-v5": "^2.11.12"
+  },
+  "engines": {
+    "node": ">=14.19.1 <=16.x.x",
+    "npm": ">=6.0.0"
+  }
+}
